@@ -1,0 +1,16 @@
+#container {
+    text-align: center;
+    padding: 20px;
+    margin: 100px;
+}
+
+img {
+    width: 20%;
+    height: 30%;
+}
+
+#hexCode {
+    position: absolute;
+    left: 42%;
+    margin-top: 9px;
+}
